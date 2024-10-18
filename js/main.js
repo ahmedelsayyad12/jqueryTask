@@ -21,7 +21,7 @@ $('.title').on('click',function(){
 })
 // end of  duration
 // start of details
-let countDownDate = new Date("Oct  26, 2024 12:59:59").getTime();
+let countDownDate = new Date("Oct  27, 2024 12:59:59").getTime();
 
 let counter = setInterval(()=>{
     let dateNow = new Date().getTime();
